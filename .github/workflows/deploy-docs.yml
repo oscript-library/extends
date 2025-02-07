@@ -13,6 +13,5 @@ jobs:
     uses: autumn-library/workflows/.github/workflows/deploy-docs.yml@main
     with:
       github_repository: nixel2007/extends
-      token: ${{ env.TRIGGER_DOCS_DEPLOY_TOKEN }}
     secrets:
       TRIGGER_DOCS_DEPLOY_TOKEN: ${{ secrets.TRIGGER_DOCS_DEPLOY_TOKEN }}
