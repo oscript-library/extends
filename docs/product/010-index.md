@@ -1,5 +1,5 @@
 ---
-title: extends
+title: Описание
 ---
 
 # extends
