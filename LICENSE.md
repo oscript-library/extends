@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © `2024` `Nikita Fedkin <nixel2007@gmail.com>`
+Copyright © `2024`-`2025` Nikita Fedkin <nixel2007@gmail.com>`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
