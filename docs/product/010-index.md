@@ -25,8 +25,6 @@ opm install extends
 
 Библиотека `extends` активно использует возможности, предоставляемые библиотеками [`reflector`](https://github.com/oscript-library/reflector) и [`decorator`](https://github.com/nixel2007/decorator).
 
-Публичный интерфейс библиотеки описан в разделе [api](/api/extends/index.md).
-
 ## Лицензия
 
 Этот проект лицензируется под лицензией MIT. Подробности см. в файле LICENSE.md.
