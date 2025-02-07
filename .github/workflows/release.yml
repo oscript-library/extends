@@ -11,5 +11,6 @@ jobs:
     uses: autumn-library/workflows/.github/workflows/release.yml@main
     with:
       package_mask: "extends-*.ospx"
+      oscript_version: dev
     secrets:
       PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
