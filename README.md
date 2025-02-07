@@ -15,7 +15,7 @@ opm install extends
 
 ## Описание
 
-Описание библиотеки доступно в каталоге [docs/product](./docs/product/index.md).
+Описание библиотеки доступно на сайте https://autumn-library.github.io/extends и в каталоге [docs/product](./docs/product/index.md).
 
 Публичный интерфейс библиотеки описан в каталоге [docs/api](./docs/api/index.md).
 
